@@ -1,0 +1,10 @@
+C:\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Indexers\Indexers\obj\Debug\Indexers.Form1.resources
+C:\Indexers\Indexers\obj\Debug\Indexers.Properties.Resources.resources
+C:\Indexers\Indexers\obj\Debug\Indexers.csproj.GenerateResource.cache
+C:\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Indexers\Indexers\obj\Debug\Indexers.pdb
